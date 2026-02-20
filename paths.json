@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/eds-universal-editor/:/"
+    "/content/eds-universal-editor/:/",
+    "/content/eds-universal-editor:/.helix/config.json",
+    "/content/eds-universal-editor/metadata:/metadata.json  "
   ],
   "includes": [
     "/content/eds-universal-editor/"
